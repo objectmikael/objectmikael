@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋, I'm Mikael Borneo
+
+### Project Manager | Full-Stack Developer
+
+
+I'm an experienced Project Manager with over 10 years of experience in various industries including manufacturing, educational technology, and online gaming. I have a background in Agile methodologies and have obtained certifications as a Project Management Professional (PMP), AWS Cloud Practitioner, and Scrum Product Owner/Scrum Master. 
+
+- 🔭 I’m currently working on a CRUD application to track daily fitness routines
+- 👯 I’m looking to collaborate on financial services projects
+- 📫 You can reach me on: [LinkedIn](https://www.linkedin.com/in/mborneo/)
 
 <!--
 **objectmikael/objectmikael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
